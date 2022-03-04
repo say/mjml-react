@@ -32,7 +32,7 @@
     "puppeteer": "^1.4.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
-    "@wix/yoshi": "^4.186.0"
+    "yoshi": "^4.87.0"
   },
   "peerDependencies": {
     "mjml": "^4.7.0",
