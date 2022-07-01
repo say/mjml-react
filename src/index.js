@@ -1,5 +1,5 @@
 import ReactDOMServer from 'react-dom/server';
-import mjml2html from '@asayinc/mjml';
+import mjml2html from 'mjml';
 
 import { renderToJSON } from './utils/render-to-json';
 import { renderToJSON2 } from './utils/render-to-json2';
