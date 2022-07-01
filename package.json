@@ -1,6 +1,6 @@
 {
   "name": "mjml-react",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "license": "MIT",
   "author": {
     "name": "Mantas Miliukas",
@@ -27,7 +27,7 @@
   "devDependencies": {
     "babel-plugin-transform-runtime": "~6.23.0",
     "chai": "~4.1.0",
-    "mjml": "^4.7.0",
+    "@asayinc/mjml": "^0.0.0",
     "mjml2json": "^1.0.1",
     "puppeteer": "^1.4.0",
     "react": "^17.0.0",
@@ -35,7 +35,7 @@
     "yoshi": "^4.87.0"
   },
   "peerDependencies": {
-    "mjml": "^4.7.0",
+    "@asayinc/mjml": "^0.0.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
